@@ -1,0 +1,153 @@
+---
+id: 2206
+title: 重游布拉格。
+date: '2025-01-02T12:16:46+08:00'
+author: colordancer
+layout: revision
+guid: 'http://colordancer.net/blog/?p=2206'
+permalink: '/?p=2206'
+---
+
+ 3月中旬的时候，我被公司派到布拉格参加经理培训。这是我第二次去布拉格，上次去是在10年的8月份，可惜只待了一天，来去匆匆，并没有欣赏到这座欧洲古城的全貌。这次在布拉格停留5天，可以慢慢体会那里的生活节奏和城市文化，所以便有了新的认识和感受。
+
+ 因为回来之后一直在倒时差，加上年初的工作繁忙，所以直到这几天才能静下心来整理此次布拉格之行的记录。还好这次我吸取了上次写[布尔诺游记](http://www.colordancer.net/blog/2010_09_%e6%8d%b7%e5%85%8b%e4%b9%8b%e8%a1%8c%e4%b8%8a%e7%af%87%e2%80%94%e2%80%94%e8%ba%ab%e5%9c%a8brno%e5%bf%83%e5%9c%a8shanghai%e3%80%82 "捷克之行(上篇)——身在Brno心在Shanghai。")的教训——靠回忆来整理游记无论体力还是脑力劳动，工作量都巨大。所以这次在布拉格的5天，每天晚上回到酒店，我都会记下我当天的见闻感受。这样便有了这篇日记形式的博客。
+
+  **3月11日**
+
+ 出发前小小“炫富”一下……
+
+ **[![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/IMG-20120309-00060-600x450.jpg "IMG-20120309-00060")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/img-20120309-00060)**
+
+ **3月12日**
+
+ 在北京坐地铁真的是要悲剧的，幸亏早上多提前半小时出门，不然我估计我多半赶不上飞机了。5号线等了两班，都是人直接挤到了门口，我背着个背包，还拖着个行李箱，根本没法挤进去。于是果断辗转13号线，所幸按时抵达机场。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/IMG-20120312-00061-600x450.jpg "IMG-20120312-00061")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/img-20120312-00061)
+
+ 白天坐长途飞机远比晚上坐要来得舒服，吃两顿饭，看个电影，睡会儿午觉，没多久就到芬兰了。赫尔辛基应该刚下过雪，从飞机上俯瞰赫尔辛基几乎是白茫茫的一片，机场四周都是厚厚的积雪，不过天气晴朗。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0025-600x450.jpg "赫尔辛基机场")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0025)
+
+ 机场很小，基本上只能看到两三架飞机起落。这里的人很友好，能让人感觉到他们的生活放松，节奏缓慢。候机室的座位都是一排排餐桌，要不是窗外的飞机，我真要以为这里是咖啡厅了。
+
+ 不大的免税店：
+
+  *[![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0021-600x450.jpg "免税店")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0021)*
+
+ 候机厅：
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0027-600x450.jpg "候机厅")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0027)
+
+ **3月13日**
+
+ 时差还没有倒过来。晚上四五点开始犯困，早上四五点就睡不着了。尽管如此，每天最让我开心的时候还是早上，因为酒店的早餐可以吃得健康丰盛美味又有情趣。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/IMG-20120315-00064-600x450.jpg "IMG-20120315-00064")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/img-20120315-00064)
+
+ 今天培训一整天，有来自英国、法国、塞浦路斯的各个remote office的管理人员。他们每个国家至少来两个同事，只有我一个来自亚洲，显得我有些形单影只。因为我平时或多或少在看一些管理的书籍，所以培训的内容对我来说不怎么陌生。倒是用英语交流一天让我觉得有些吃力。
+
+ 老外的童真单纯让我印象比较深刻。有几个同事年龄看上去不小了，但是说到一些趣事时，会笑得特别的无所顾忌；而且在回答问题的时候，有些答案在我们中国人可能看来too simple to answer，但是他们却回答的很积极认真。这让我有种奇怪的感受，我也想变成他们那样，但是心里似乎总使不上劲儿。
+
+ 牙膏在北京机场过安检的时候被没收了，晚上开完会在布拉格买了一只，最便宜的要50克朗，接近25元人民币。不得不感叹消费水平确实不低。
+
+ **3月15日**
+
+ 今天是国内一年一度的重要节日，我在遥远的另一端也饶有兴趣地关注着今年央视会揭发谁。可惜今年的爆料没有去年披露网秦那般凶猛。
+
+ 今天结束后，为期三天的经理培训就算结束了。作为唯一受着7小时时差影响的培训人员，加上语言交流不太顺畅，这三天下来，我或多或少感觉到有些疲惫。所以培训结束后，看着大家作鸟兽散和会议室的狼藉，我顿时有种放假了的感觉。
+
+ 其他几个欧洲国家的同事培训结束后就赶去机场回国，所以临别之前大家殷勤地道别。有趣的是，他们问候或者道别时都用贴脸的方式，所以轮到我的时候，我生怕他们也跟我贴脸，所以早早地就伸出手来。
+
+ 大家对培训都很满意，而且对各国之间的交流感到惊奇和欣喜。我很喜欢英国同事的标准英式发音，他的爆破音和语速听起来很舒服，只可惜他一般都爆的比较多所以我一般听不太懂；法国人果然都有浪漫的情怀，而且有独特的法式幽默（不是法式烧饼哦），我很喜欢他们的表情，很丰富。作为国际话题比较敏感的中国人，我吸取了上次旅欧的教训，客观地评价自己的国家，不用自己国家的糗事作为和老外增进交流的谈资，所以最后英国同事评价我说“You are really proud of your country”。
+
+ 公司只管了第一天的晚饭，所以今天晚上我决定好好犒劳下自己，掏出了背来的康师傅红烧牛肉面。好好吃喔。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0040-600x450.jpg "DSCN0040")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0040)
+
+ **3月16日**
+
+ 今天是在布拉格的最后一天，也是这几天里仅有的一天free day。只可惜对旅游不狂热的我，而且上次已经基本上对布拉格逛了个遍，所以并没有打算好好利用这一天。
+
+ 上午吃完早饭居然还是很困，所以回来又一直睡到中午。原先的计划是下午去CK小镇转转，后来发现从布拉格去CK小镇坐bus单程就要3个小时，只得遗憾地放弃。醒来后计划出去随便走走，只怪布拉格今天的天气太好，到最后变成了暴走一下午。
+
+ 大部分的景点还是熟悉的，只是再一次映入眼帘的时候，仍有不同的感受。也许是明天就要回北京的缘故，看着这些美轮美奂的景致，而我却有一种看得见摸不着的怅然。于是我打消了重温景点的念头，而是闲庭信步，尝试去感受这个城市里的生活和节奏。
+
+ 布拉格真的很小，我随便晃荡，不经意的又快要来到布拉格大桥。刻意避开，便来到这座“会跳舞的房子”。这其实是家餐馆，要傍晚才能开发，据说在顶楼可以看到布拉格的全貌。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/IMG-20120316-00068-600x450.jpg "会跳舞的房子")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/img-20120316-00068)
+
+ 这群铜像在离布拉格大桥不远的小镇上。铜像从不完整变化到完整，寓意着捷克从残缺到统一。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/IMG-20120316-000721-450x600.jpg "IMG-20120316-00072")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/img-20120316-00072-2)
+
+ 布拉格的城市交通主要靠电车，所以四处可见电车来回交错。石板路上被磨得锃亮的铁轨，仿佛在诉说着什么。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0048-600x450.jpg "有轨电车")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0048)
+
+ 这是布拉格大桥横穿的那条河。河岸有游客在给天鹅喂食。据说天鹅没有听上去那么美好，时有天鹅啄伤游客的报导。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0058-600x450.jpg "天鹅湖")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0058)
+
+ 在一个97年就在布拉格定居而后一直生活在布拉格的中国朋友的推荐下，我去了上次没有去过的“高堡”。
+
+ 人们熟知的布拉格城堡，也叫皇宫，是现在国王居住或者办公的地方。这个高堡，是当初捷克反抗敌军入侵的据点，因为建在高处，并且四周砌了很高的城墙，所以谓之高堡。高堡，折射着布拉格创伤的另一面。
+
+ 城墙。看上去很坚实。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0113-600x450.jpg "高堡城墙")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0113)
+
+ 从高堡上远眺皇宫。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0063-600x450.jpg "DSCN0063")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0063)
+
+ 高堡里面的教堂。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0077-600x450.jpg "高堡里的城堡")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0077)
+
+ 教堂的门。西方教堂的窗户和门总是别具匠心。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0082-450x600.jpg "高堡教堂的门")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0082)
+
+ 教堂后方的墓地。大大小小估计有上百块墓碑，每块墓碑的造型都不一样。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0086-600x450.jpg "墓地")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0086)
+
+ 虽然我是个历史盲，但是光芒和翅膀足以震慑人心。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0098-450x600.jpg "DSCN0098")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0098)
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0101-450x600.jpg "DSCN0101")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0101)
+
+ **3月17日**
+
+ 该启程回北京了。小而精致的布拉格机场，Prague在捷克语里叫Praha。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0127-600x450.jpg "布拉格机场")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0127)
+
+ 在布拉格机场里看到的中式拍照背景板。在遥远的欧洲国家能看到这样的中国元素，作为一个身在异乡的中国人会有一种归属感产生。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0126-600x450.jpg "DSCN0126")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0126)
+
+ 在天空中看到另一架飞机并驾齐驱。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0130-600x450.jpg "DSCN0130")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0130)
+
+ 拉近点儿：
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0131-600x450.jpg "DSCN0131")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0131)
+
+ 从赫尔辛基，横穿俄罗斯。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0144-600x450.jpg "DSCN0144")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0144)
+
+ 终于抵达北京。清晨的阳光，对我来说似乎不太一样。
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/DSCN0149-600x450.jpg "DSCN0149")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0149)
+
+  **后记：**
+
+ 虽说是第二次去布拉格，但这次却是我只身前往，所以仍可以算作一次新鲜的经历。从启程前的担忧兴奋，到回来后的疲惫踏实，我得感叹，每一次异样的经历都是宝贵的财富。
+
+ 最后，贴一张在布拉格办公室的照片。老外真是务实啊，前台都不好好收拾:)
+
+ [![](http://www.colordancer.net/blog/wp-content/uploads/2012/04/dscn0042-600x450.jpg "布拉格办公室")](http://www.colordancer.net/blog/2012_04_%e5%a4%8d%e6%b8%b8%e5%b8%83%e6%8b%89%e6%a0%bc%e3%80%82/dscn0042)
