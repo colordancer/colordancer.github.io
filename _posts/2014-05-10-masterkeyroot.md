@@ -30,4 +30,4 @@ tags:
 
  Demo图：
 
- [![root](http://www.colordancer.net/blog/wp-content/uploads/2014/05/root-600x547.png)](http://www.colordancer.net/blog/wp-content/uploads/2014/05/root.png)
+ [![root](/images/wp-content/uploads/2014/05/root-600x547.png)](/images/wp-content/uploads/2014/05/root.png)

@@ -15,7 +15,7 @@ categories:
 ---
 
 这是去年十月份刚来北京时帮朋友做的一个poc。现在发出来应该没什么问题了。当时做的时候，遇到了不少问题，发出来希望能给他人有所帮助。  
-[![](http://www.colordancer.net/blog/wp-content/uploads/2011/03/无标题.gif "无标题")](http://www.colordancer.net/blog/2011_03_%e7%94%a8netfilter%e5%9c%a8linux%e4%b8%8b%e5%ae%9e%e7%8e%b0%e4%b8%80%e4%b8%aa%e5%b0%8f%e5%9e%8b%e9%98%b2%e7%81%ab%e5%a2%99minifirewall%e3%80%82/%e6%97%a0%e6%a0%87%e9%a2%98-2)  
+[![](/images/wp-content/uploads/2011/03/无标题.gif "无标题")](http://www.colordancer.net/blog/2011_03_%e7%94%a8netfilter%e5%9c%a8linux%e4%b8%8b%e5%ae%9e%e7%8e%b0%e4%b8%80%e4%b8%aa%e5%b0%8f%e5%9e%8b%e9%98%b2%e7%81%ab%e5%a2%99minifirewall%e3%80%82/%e6%97%a0%e6%a0%87%e9%a2%98-2)  
 基本原理：  
 1\. server端：  
 a.编译成Kernal Module，然后利用NetFilter建立挂钩函数，在挂钩函数里做包的处理工作。  

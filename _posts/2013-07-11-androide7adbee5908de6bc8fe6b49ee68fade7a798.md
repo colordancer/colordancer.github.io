@@ -23,11 +23,11 @@ tags:
 
  Android签名漏洞的原因在于android系统在安装apk的过程中，检验签名的逻辑存在一点纰漏。Android程序安装模块利用一个HashMap数据结构（下图中的mEntries）存放压缩包里的文件信息：
 
- [![](http://www.colordancer.net/blog/wp-content/uploads/2013/07/071113_0533_Android1.jpg)](http://seclab.safe.baidu.com/wp-content/uploads/wp-display-data.php?filename=1373442827bluebox1.jpg&type=image%2Fjpeg&width=490&height=105)
+ [![](/images/wp-content/uploads/2013/07/071113_0533_Android1.jpg)](http://seclab.safe.baidu.com/wp-content/uploads/wp-display-data.php?filename=1373442827bluebox1.jpg&type=image%2Fjpeg&width=490&height=105)
 
  HashMap是一个字典型数据结构，不允许索引重复。而这个mEntries里的索引正是压缩包里的文件名，所以android如果发现压缩包里同一路径下存在两个同名的文件，先前存放在map中的文件信息会被后存放的同名文件覆盖。如果仅仅是覆盖，那还不会引起问题。可是android程序在执行的时候，却是根据文件名从压缩包里获取程序代码和资源文件。
 
- [![](http://www.colordancer.net/blog/wp-content/uploads/2013/07/071113_0533_Android2.png)](http://seclab.safe.baidu.com/wp-content/uploads/wp-display-data.php?filename=1373442828bluebox2.png&type=image%2Fpng&width=591&height=631)
+ [![](/images/wp-content/uploads/2013/07/071113_0533_Android2.png)](http://seclab.safe.baidu.com/wp-content/uploads/wp-display-data.php?filename=1373442828bluebox2.png&type=image%2Fpng&width=591&height=631)
 
  同名的两个文件，在文件流上靠前的那个文件会被android加载。所以，只要保证添加进apk压缩包里的恶意文件在文件流上处于同名正常文件之前，就能保证该恶意文件绕过签名严重，并能被android加载。
 
@@ -35,7 +35,7 @@ tags:
 
  用一般的方法往zip压缩包里写两个同名文件是不可能的，旧的文件会被新的文件覆盖掉，所以只能依赖文件流的操作。这里我们用的python的zipfile库。
 
- [![](http://www.colordancer.net/blog/wp-content/uploads/2013/07/071113_0533_Android3.png)](http://seclab.safe.baidu.com/wp-content/uploads/wp-display-data.php?filename=13735201431.PNG&type=image%2Fpng&width=516&height=102)
+ [![](/images/wp-content/uploads/2013/07/071113_0533_Android3.png)](http://seclab.safe.baidu.com/wp-content/uploads/wp-display-data.php?filename=13735201431.PNG&type=image%2Fpng&width=516&height=102)
 
  用Python打开apk，然后直接往里面写文件，就可以实现同名文件。
 
@@ -43,13 +43,13 @@ tags:
 
  <span style="line-height: 1.6em;">把A从压缩包里提取出来，然后把它再写到压缩包里，这里称作C。所以在压缩包里，这3个文件的顺序就是ABC，而C==A，所以再把A从压缩包里删除，这样就实现了原始文件在新文件之后了。</span>
 
- [![](http://www.colordancer.net/blog/wp-content/uploads/2013/07/071113_0533_Android4.png)](http://seclab.safe.baidu.com/wp-content/uploads/wp-display-data.php?filename=13735201442.PNG&type=image%2Fpng&width=627&height=423)
+ [![](/images/wp-content/uploads/2013/07/071113_0533_Android4.png)](http://seclab.safe.baidu.com/wp-content/uploads/wp-display-data.php?filename=13735201442.PNG&type=image%2Fpng&width=627&height=423)
 
  下图显示研究人员成功修改android 2.3中默认浏览器的图标：
 
- [![](http://www.colordancer.net/blog/wp-content/uploads/2013/07/071113_0533_Android5.png)](http://seclab.safe.baidu.com/wp-content/uploads/wp-display-data.php?filename=1373442829bluebox3.png&type=image%2Fpng&width=320&height=480)
+ [![](/images/wp-content/uploads/2013/07/071113_0533_Android5.png)](http://seclab.safe.baidu.com/wp-content/uploads/wp-display-data.php?filename=1373442829bluebox3.png&type=image%2Fpng&width=320&height=480)
 
- [![](http://www.colordancer.net/blog/wp-content/uploads/2013/07/071113_0533_Android6.png)](http://seclab.safe.baidu.com/wp-content/uploads/wp-display-data.php?filename=1373442830bluebox4.png&type=image%2Fpng&width=319&height=478)
+ [![](/images/wp-content/uploads/2013/07/071113_0533_Android6.png)](http://seclab.safe.baidu.com/wp-content/uploads/wp-display-data.php?filename=1373442830bluebox4.png&type=image%2Fpng&width=319&height=478)
 
  另外，如果仅仅替换classes.dex或者资源文件，因为版本号一致的缘故，android重启之后会将恶意的apk删除，保留原先正常的apk。所以，还需要用同样的方法修改一份AndroidManifest.xml配置文件。
 

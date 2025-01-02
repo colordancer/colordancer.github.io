@@ -32,7 +32,7 @@ Windows自定义的弹出对话框太丑了，而由于对话框是通过调用M
 
 效果：  
 hook前  
-![](http://www.colordancer.net/blog/attachments/month_0904/y200943016333.jpg)
+![](/images/attachments/month_0904/y200943016333.jpg)
 
 hook后  
-![](http://www.colordancer.net/blog/attachments/month_0904/m200943016342.jpg)
+![](/images/attachments/month_0904/m200943016342.jpg)

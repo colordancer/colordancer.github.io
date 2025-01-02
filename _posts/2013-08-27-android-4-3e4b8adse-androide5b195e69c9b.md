@@ -21,7 +21,7 @@ tags:
 
  <span style="line-height: 1.6em;">标准的UNIX安全模型是"任意的访问控制"DAC（Discretionary Access Control），任何程序对其资源享有完全的控制权，这些控制权由用户自己定义。SELinux的安全模型则是MAC（Mandatory Access Control），即强制访问控制，它的做法是"最小权限原则"，通过定义哪些用户可以访问哪些文件，从而提供了一系列的机制，来限制用户和文件的权限。</span>
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/08/082713_0221_1.gif)
+ ![](/images/wp-content/uploads/2013/08/082713_0221_1.gif)
 
  <span style="line-height: 1.6em;">SELinux有disabled、permissive、enforcing3种模式：</span>
 
@@ -33,31 +33,31 @@ tags:
 
  <span style="line-height: 1.6em;">可以在Android shell通过setenforce命令来设置SELinux的模式。</span>
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/08/082713_0221_2.png)
+ ![](/images/wp-content/uploads/2013/08/082713_0221_2.png)
 
  <span style="line-height: 1.6em;">查看文件的权限状态：</span>
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/08/082713_0221_3.png)
+ ![](/images/wp-content/uploads/2013/08/082713_0221_3.png)
 
  <span style="line-height: 1.6em;">其中u:object\_r:rootfs:s0中有4个字段，分别是user, role, type, security-level，其中最重要的是type，所有的policy都围绕type展开。</span>
 
  <span style="line-height: 1.6em;">在Android 4.3源码中，这些策略文件被放到了源码目录external/sepolicy中，在Android.mk文件中描述了相关编译过程，首先会使用m4预处理器将sepolicy中的所有相关文件整合成一个源文件plicy.conf，然后通过checkpolicy 编译器将policy.conf策略源文件编译成sepolicy.24的二进制策略文件（24为策略版本号）。</span>
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/08/082713_0221_4.png)
+ ![](/images/wp-content/uploads/2013/08/082713_0221_4.png)
 
  <span style="line-height: 1.6em;">通过对policy.conf的查看，我们可以看到Android已经为系统默认配置了一些权限，编译后的seplicy文件位于系统根目录下，可以用seinfo命令查看。</span>
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/08/082713_0221_5.png)
+ ![](/images/wp-content/uploads/2013/08/082713_0221_5.png)
 
  <span style="line-height: 1.6em;">可以看到一共有43个Permissive的权限设置，我们尝试enforce一下：</span>
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/08/082713_0221_6.png)
+ ![](/images/wp-content/uploads/2013/08/082713_0221_6.png)
 
  可以看到setenforce其实并没有起作用，进一步确认了Android 4.3中Selinux是在permissive模式下运行的，手动setenforce也不起作用。
 
  <span style="line-height: 1.6em;">Android引入SELinux之后，被讨论最多的一个变化就是root。由于Android目前为每个应用设立了一个单独用户用来限制每个进程的访问权先，所以只要不root，android平台就相对来讲安全很多。在没有使用SELinux的android系统上，一旦手机被root，用户就获得了su权限，就可以对系统文件和其他应用进行操作。如果启用了SELinux，管理员就可以设置策略，限定su的访问，比如可以设置su不可以修改系统文件，这样就算手机被root，也可以保障android系统不被恶意篡改。</span>
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/08/082713_0221_7.png)
+ ![](/images/wp-content/uploads/2013/08/082713_0221_7.png)
 
  <span style="line-height: 1.6em;">（图片转自：</span><http://blog.csdn.net/yiyaaixuexi/article/details/8490886><span style="line-height: 1.6em;">）</span>
 

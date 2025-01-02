@@ -20,48 +20,48 @@ RSA APJ是RSA针对亚太地区举行的安全峰会，今年是第二届。相�
 
 RSA会议所在酒店：金沙酒店
 
-[![RSA会场所在酒店：金沙酒店](http://www.colordancer.net/blog/wp-content/uploads/2014/08/IMG_5016-600x450.jpg)](http://www.colordancer.net/blog/wp-content/uploads/2014/08/IMG_5016.jpg)
+[![RSA会场所在酒店：金沙酒店](/images/wp-content/uploads/2014/08/IMG_5016-600x450.jpg)](/images/wp-content/uploads/2014/08/IMG_5016.jpg)
 
 RSA开场keynote
 
-[![RSA开场keynote](http://www.colordancer.net/blog/wp-content/uploads/2014/08/RSA开场keynote-600x399.jpg)](http://www.colordancer.net/blog/wp-content/uploads/2014/08/RSA开场keynote.jpg)
+[![RSA开场keynote](/images/wp-content/uploads/2014/08/RSA开场keynote-600x399.jpg)](/images/wp-content/uploads/2014/08/RSA开场keynote.jpg)
 
 展台及午饭
 
-[![展台分会场](http://www.colordancer.net/blog/wp-content/uploads/2014/08/展台分会场-600x337.jpg)](http://www.colordancer.net/blog/wp-content/uploads/2014/08/展台分会场.jpg)
+[![展台分会场](/images/wp-content/uploads/2014/08/展台分会场-600x337.jpg)](/images/wp-content/uploads/2014/08/展台分会场.jpg)
 
 session会场
 
-[![演讲会场入口](http://www.colordancer.net/blog/wp-content/uploads/2014/08/演讲会场入口-337x600.jpg)](http://www.colordancer.net/blog/wp-content/uploads/2014/08/演讲会场入口.jpg)
+[![演讲会场入口](/images/wp-content/uploads/2014/08/演讲会场入口-337x600.jpg)](/images/wp-content/uploads/2014/08/演讲会场入口.jpg)
 
 我的演讲
 
-[![我的演讲](http://www.colordancer.net/blog/wp-content/uploads/2014/08/mmexport1406207561907-449x600.jpg)](http://www.colordancer.net/blog/wp-content/uploads/2014/08/mmexport1406207561907.jpg)
+[![我的演讲](/images/wp-content/uploads/2014/08/mmexport1406207561907-449x600.jpg)](/images/wp-content/uploads/2014/08/mmexport1406207561907.jpg)
 
 鱼尾狮公园
 
-[![鱼尾狮公园](http://www.colordancer.net/blog/wp-content/uploads/2014/08/IMG_5041-600x450.jpg)](http://www.colordancer.net/blog/wp-content/uploads/2014/08/IMG_5041.jpg)
+[![鱼尾狮公园](/images/wp-content/uploads/2014/08/IMG_5041-600x450.jpg)](/images/wp-content/uploads/2014/08/IMG_5041.jpg)
 
 传说中的天天海南鸡饭
 
-[![天天海南鸡饭](http://www.colordancer.net/blog/wp-content/uploads/2014/08/IMG_4987-600x450.jpg)](http://www.colordancer.net/blog/wp-content/uploads/2014/08/IMG_4987.jpg)
+[![天天海南鸡饭](/images/wp-content/uploads/2014/08/IMG_4987-600x450.jpg)](/images/wp-content/uploads/2014/08/IMG_4987.jpg)
 
 非常好吃的老伴豆花，据说是这老头为她老伴儿做的豆花
 
-[![老伴豆花](http://www.colordancer.net/blog/wp-content/uploads/2014/08/IMG_4993-450x600.jpg)](http://www.colordancer.net/blog/wp-content/uploads/2014/08/IMG_4993.jpg)
+[![老伴豆花](/images/wp-content/uploads/2014/08/IMG_4993-450x600.jpg)](/images/wp-content/uploads/2014/08/IMG_4993.jpg)
 
 传说中最好吃的榴莲：猫山榴莲
 
-[![猫山榴莲](http://www.colordancer.net/blog/wp-content/uploads/2014/08/IMG_5644-600x450.jpg)](http://www.colordancer.net/blog/wp-content/uploads/2014/08/IMG_5644.jpg)
+[![猫山榴莲](/images/wp-content/uploads/2014/08/IMG_5644-600x450.jpg)](/images/wp-content/uploads/2014/08/IMG_5644.jpg)
 
 环球影城。比迪士尼小不少，舍得花钱的话还是买个express，不用排队的心情你无法体会。变形金刚5D影院非常好玩，我一连玩了4次！orz
 
-[![环球影城](http://www.colordancer.net/blog/wp-content/uploads/2014/08/IMG_5438-450x600.jpg)](http://www.colordancer.net/blog/wp-content/uploads/2014/08/IMG_5438.jpg)
+[![环球影城](/images/wp-content/uploads/2014/08/IMG_5438-450x600.jpg)](/images/wp-content/uploads/2014/08/IMG_5438.jpg)
 
 比“伦敦之眼”还大的摩天轮，转一圈30分钟
 
-[![摩天轮](http://www.colordancer.net/blog/wp-content/uploads/2014/08/20140721_1857513-337x600.jpg)](http://www.colordancer.net/blog/wp-content/uploads/2014/08/20140721_1857513.jpg)
+[![摩天轮](/images/wp-content/uploads/2014/08/20140721_1857513-337x600.jpg)](/images/wp-content/uploads/2014/08/20140721_1857513.jpg)
 
 在摩天轮俯瞰金沙酒店
 
-[![摩天轮夜景](http://www.colordancer.net/blog/wp-content/uploads/2014/08/IMG_5248-600x450.jpg)](http://www.colordancer.net/blog/wp-content/uploads/2014/08/IMG_5248.jpg)
+[![摩天轮夜景](/images/wp-content/uploads/2014/08/IMG_5248-600x450.jpg)](/images/wp-content/uploads/2014/08/IMG_5248.jpg)

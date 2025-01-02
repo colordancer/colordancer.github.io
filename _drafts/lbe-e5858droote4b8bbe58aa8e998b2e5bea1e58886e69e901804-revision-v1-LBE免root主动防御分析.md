@@ -16,35 +16,35 @@ permalink: '/?p=2197'
 
  开启LBE的"免root启动"主动防御后，LBE会提示用户修复MasterKey漏洞，如果用户同意修复，LBE会连接到服务器端下载所在系统SettingsProvider对应版本的补丁到/data/data/com.lbe.security/files/lbe\_patch，然后安装。安装完毕后，提示重启，重启后即可实现免root主动防御功能。
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/10/102813_0846_LBEroot1.png)
+ ![](/images/wp-content/uploads/2013/10/102813_0846_LBEroot1.png)
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/10/102813_0846_LBEroot2.png)
+ ![](/images/wp-content/uploads/2013/10/102813_0846_LBEroot2.png)
 
  安装lbe\_patch：
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/10/102813_0846_LBEroot3.png)
+ ![](/images/wp-content/uploads/2013/10/102813_0846_LBEroot3.png)
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/10/102813_0846_LBEroot4.png)
+ ![](/images/wp-content/uploads/2013/10/102813_0846_LBEroot4.png)
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/10/102813_0846_LBEroot5.png)
+ ![](/images/wp-content/uploads/2013/10/102813_0846_LBEroot5.png)
 
  这个补丁文件lbe\_patch是一个修改过的SettingsProvider安装包。安装过程中，利用了Android签名验证漏洞#9695860，覆盖系统自带的SettingsProvider。关于该漏洞的具体分析，可以参见百度安全实验室发布的另一篇文章(链接)。
 
  从lbe\_patch的文件结构可以看到，CERT.RSA的Comment大小被设置为0x8000，致使java在解析lbe\_patch时，处理完cert.rsa这个central directory后，会紧跟着解析后续的central director；而C++则跳转到0x8000后的地址解析。
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/10/102813_0846_LBEroot6.png)
+ ![](/images/wp-content/uploads/2013/10/102813_0846_LBEroot6.png)
 
  所以，在验证签名时，PackageParser.java将lbe\_patch解析成如下结构：
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/10/102813_0846_LBEroot7.png)
+ ![](/images/wp-content/uploads/2013/10/102813_0846_LBEroot7.png)
 
  而C++会将其解析成：
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/10/102813_0846_LBEroot8.png)
+ ![](/images/wp-content/uploads/2013/10/102813_0846_LBEroot8.png)
 
  对比下系统自带的SettingsProvider包的结构：
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/10/102813_0846_LBEroot9.png)
+ ![](/images/wp-content/uploads/2013/10/102813_0846_LBEroot9.png)
 
  可以看到， java解析lbe\_patch后的变化有两个：
 
@@ -53,7 +53,7 @@ permalink: '/?p=2197'
 
  那lbe\_patch是怎么绕过Android签名验证的？PackageParser.java在验证JarEntry的签名代码如下：
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/10/102813_0846_LBEroot10.png)
+ ![](/images/wp-content/uploads/2013/10/102813_0846_LBEroot10.png)
 
  从上面的代码可以看到：
 
@@ -64,23 +64,23 @@ permalink: '/?p=2197'
 
  AndroidManifest.xml中记录了patch version，在安装时校验，并且新注册了个com.lbe.security.mkservice服务，供lbe后续调用：
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/10/102813_0846_LBEroot11.png)
+ ![](/images/wp-content/uploads/2013/10/102813_0846_LBEroot11.png)
 
  Classes.dex代码结构：
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/10/102813_0846_LBEroot12.png)
+ ![](/images/wp-content/uploads/2013/10/102813_0846_LBEroot12.png)
 
  可以看到里面包含了com.android.providers.settings代码。MkPayload是lbe\_patch的入口类，里面包含了main函数，用来做一些初始化，反射调用和加载主防等模块：
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/10/102813_0846_LBEroot13.png)
+ ![](/images/wp-content/uploads/2013/10/102813_0846_LBEroot13.png)
 
  这个main函数何时被调用？LBE修改了com.android.providers.setting的代码，在SettingsProvider的构造函数里调用了这个main函数，所以LBE的代码会跟着SettingsProvider一起加载执行：
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/10/102813_0846_LBEroot14.png)
+ ![](/images/wp-content/uploads/2013/10/102813_0846_LBEroot14.png)
 
  至此，LBE的代码已经获得System权限，即可在SettingsProvider进程里加载其他功能模块，实现"rootFree"功能：
 
- ![](http://www.colordancer.net/blog/wp-content/uploads/2013/10/102813_0846_LBEroot15.png)
+ ![](/images/wp-content/uploads/2013/10/102813_0846_LBEroot15.png)
 
  对于LBE提出的免root功能，确实在一定程度上解决了root带来的问题，比如root后可能有些手机将无法保修，或者部分普通用户不会root，但某些场景下又确实需要root带来的功能。但是目前LBE提出的这个方案也存在一些问题：
 

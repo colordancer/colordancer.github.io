@@ -51,4 +51,4 @@ permalink: '/?p=2198'
  5. 确定，即完成连接调试，可以发现IP停在了刚才下断点的地方。  
  6. 可以看到，apktool2.0+netbeans7.3支持显示寄存器的值：
 
- [![netbeans 7.3 debug](http://www.colordancer.net/blog/wp-content/uploads/2013/09/netbeans-7.3-debug-600x467.png)](http://www.colordancer.net/blog/wp-content/uploads/2013/09/netbeans-7.3-debug.png)
+ [![netbeans 7.3 debug](/images/wp-content/uploads/2013/09/netbeans-7.3-debug-600x467.png)](/images/wp-content/uploads/2013/09/netbeans-7.3-debug.png)

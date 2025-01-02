@@ -57,4 +57,4 @@ StackWalk64(IMAGE\_FILE\_MACHINE\_I386,hCurrentProcess,hCurrentThread,&amp;sStac
 int i = 0;  
 AfxMessageBox(L”%d”, 5 /i)，编译就可以通过。汗……
 
-![](/blog/attachments/month_0907/d200972155845.jpg)
+![](/images/attachments/month_0907/d200972155845.jpg)

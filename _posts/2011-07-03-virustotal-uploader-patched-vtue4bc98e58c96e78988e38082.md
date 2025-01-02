@@ -23,7 +23,7 @@ Virustotal uploader，简称VTU，是一个可以上传文件到virustotal.com�
 2：如果选择了“打开重新扫描的结果页面”，则直接跳转到重新扫描的页面，而非“选择reanalysze还是view latest report”的页面。
 
 修改后的运行界面如下：  
-[![](http://www.colordancer.net/blog/wp-content/uploads/2011/07/VTU-patched-600x360.jpg "VTU patched")](http://www.colordancer.net/blog/2011_07_virustotal-uploader-patched-vtu%e4%bc%98%e5%8c%96%e7%89%88%e3%80%82/vtu-patched)
+[![](/images/wp-content/uploads/2011/07/VTU-patched-600x360.jpg "VTU patched")](http://www.colordancer.net/blog/2011_07_virustotal-uploader-patched-vtu%e4%bc%98%e5%8c%96%e7%89%88%e3%80%82/vtu-patched)
 
 [](http://www.colordancer.net/blog/2011_07_virustotal-uploader-patched-vtu%e4%bc%98%e5%8c%96%e7%89%88%e3%80%82/vtu-patched)
 

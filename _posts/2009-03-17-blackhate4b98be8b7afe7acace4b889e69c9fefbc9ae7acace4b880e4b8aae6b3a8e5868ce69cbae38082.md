@@ -20,7 +20,7 @@ http://www.skycn.com/soft/41870.html
 p.s.PESpin的壳很难脱
 
 注册机下载：  
-[点击下载此文件](http://www.colordancer.net/blog/attachments/month_0903/i2009317172727.rar)  
-![](http://www.colordancer.net/blog/attachments/month_0903/p2009317172847.jpg)
+[点击下载此文件](/images/attachments/month_0903/i2009317172727.rar)  
+![](/images/attachments/month_0903/p2009317172847.jpg)
 
 声明：请勿用作商业用途。
