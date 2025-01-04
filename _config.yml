@@ -24,8 +24,8 @@ description: "keep seeking 0 and 1"
 url: "colordancer.github.io"
 
 # Build settings
-# theme: minima
-remote_theme: sighingnow/jekyll-gitbook
+theme: minima
+# remote_theme: sighingnow/jekyll-gitbook
 plugins:
   - jekyll-feed
   - jekyll-paginate
