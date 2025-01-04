@@ -24,9 +24,11 @@ description: "keep seeking 0 and 1"
 url: "colordancer.github.io"
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: sighingnow/jekyll-gitbook
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
