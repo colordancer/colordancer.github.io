@@ -12,6 +12,5 @@ Although recent years I still hope to write something sometimes, sadly I could n
 So, I'd rather prefer to consider this blog archive as a time machine, recording the memory of my growing up. Thanks for your visit.
 "
 
-colrdancer
-Jan 2025
+colrdancer @ Jan 2025
 
