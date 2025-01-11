@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "bo01earn"
+title: "c01ordancer - keep seeking 0 and 1"
 author: "colordancer"
-description: "keep seeking 0 and 1"
-url: "colordancer.github.io"
+description: ""
+url: "http://colordancer.net"
 
 # Build settings
 theme: minima
 # remote_theme: sighingnow/jekyll-gitbook
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+  # - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -38,14 +38,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
