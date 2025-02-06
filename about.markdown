@@ -14,7 +14,5 @@ But I still choose to publish this blog online, because rather than treating it 
 Have a meaningful day.
 "
 
-colrdancer
-
-Jan 2025
+@Jan, 2025
 
